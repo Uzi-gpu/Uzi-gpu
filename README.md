@@ -1,68 +1,67 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=300&section=header&text=Uzair%20Mubasher&fontSize=90&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20Computer%20Vision%20%7C%20NLP&descAlignY=51&descAlign=62" alt="Uzair Mubasher Banner" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=250&section=header&text=Uzair%20Mubasher&fontSize=70&fontColor=ffffff&fontAlignY=40&desc=Full-Stack%20AI%20Engineer%20%7C%20BSAI%20Graduate&descAlignY=60&descAlign=62&stroke=00f2ff&strokeWidth=2" alt="Uzair Mubasher Header" width="100%"/>
+
+  <p>
+    <a href="https://www.linkedin.com/in/uzair-mubasher-208ba5164">
+      <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+    </a>
+    <a href="mailto:your-email@example.com">
+      <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail" alt="Email"/>
+    </a>
+  </p>
 </div>
+<br />
+
+<h3 align="center">👨‍💻 The intersection of AI Logic & Visual Impact</h3>
 
 <div align="center">
-  
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Uzair_Mubasher-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/uzair-mubasher-208ba5164)
-  [![Email](https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail)](mailto:your-email@example.com)
-  
+
+I am a **BS Artificial Intelligence Graduate** focused on building end-to-end AI software products.
+
+My expertise lies in bridging the gap between theoretical deep learning models and viable, user-centric applications. I have a strong interest in **motion graphics and cinematic presentation**, striving to make complex AI systems not only intelligent but also intuitively usable and visually compelling.
+
+Currently, I am developing **MeetMind AI**, an intelligent meeting assistant, while expanding my knowledge in agentic workflows and advanced MLOps.
+
 </div>
-
 ---
 
-### 👨‍💻 About Me
-
-I am a **BS Artificial Intelligence Graduate** and an experienced professional with a background in industrial operations (**EGA**). I specialize in bridging the gap between theoretical Deep Learning and real-world software applications.
-
-My focus is on developing **AI-driven software products**—transforming complex models into monetizable, user-friendly applications. I have a passion for blending high-tech backend logic with cinematic visual presentation.
-
-* 🔭 **I’m currently working on:** **MeetMind AI** (An AI-powered meeting assistant).
-* 🌱 **I’m currently learning:** Agentic workflows (Gemini/ChatGPT) and Advanced MLOps.
-* 🧠 **Core Interests:** Computer Vision, Medical AI Tech, and Motion Graphics.
-
----
-
-### 🚀 Featured Projects
-
-| Project | Description | Tech Stack |
-| :--- | :--- | :--- |
-| **MeetMind AI** (FYP) | An intelligent online meeting assistant that generates summaries, diagrams, and action items automatically. | `Python`, `NLP`, `GenAI` |
-| **[Computer Vision Projects](https://github.com/Uzi-gpu/computer-vision-projects)** | A collection of CNNs, Object Detection, and Image Processing pipelines. | `OpenCV`, `TensorFlow` |
-| **[NLP Projects](https://github.com/Uzi-gpu/nlp-projects)** | Sentiment analysis, text generation, and language modeling experiments. | `NLTK`, `Transformers` |
-| **[Reinforcement Learning](https://github.com/Uzi-gpu/reinforcement-learning)** | Agents trained using Q-Learning and Actor-Critic methods. | `PyTorch`, `Gym` |
-
----
-
-### 🛠️ Technical Arsenal
-
-**Languages & Frameworks**
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
-  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
-</p>
-
-**Tools & Workflow**
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-</p>
-
----
-
-### 📊 GitHub Analytics
+<h3 align="center">🚀 Flagship & Featured Repositories</h3>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Uzi-gpu&show_icons=true&theme=tokyonight&hide_border=true" alt="Uzi-gpu's stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Uzi-gpu&theme=tokyonight&hide_border=true" alt="Uzi-gpu's streak" />
+
+| Project & Focus | Description |
+| :--- | :--- |
+| **🧠 MeetMind AI**<br>*(Product Development)* | **My Flagship Project (FYP).** An end-to-end AI meeting assistant that utilizes NLP and GenAI to automatically generate summaries, extract action items, and create visual diagrams from meeting discussions. |
+| **[👁️ Computer Vision Core](https://github.com/Uzi-gpu/computer-vision-projects)**<br>*(Deep Learning)* | A comprehensive collection of CV implementations including custom CNN architectures, real-time object detection pipelines, and advanced image processing utilizing **TensorFlow** and **OpenCV**. |
+| **[🗣️ Natural Language Processing](https://github.com/Uzi-gpu/nlp-projects)**<br>*(Text & Sequence)* | Experiments in language understanding, featuring sentiment analysis engines, text generation models, and practical applications using **NLTK** and **Transformers**. |
+| **[🤖 Reinforcement Learning](https://github.com/Uzi-gpu/reinforcement-learning)**<br>*(Decision Making)* | Implementation of autonomous agents using Q-Learning and Actor-Critic methods trained in **Gym** environments via **PyTorch**. |
+
 </div>
+---
+
+<h3 align="center">🛠️ The Technical Arsenal</h3>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Uzi-gpu&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
+
+**Core & Frameworks**
+<br>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
+
+**Specialized Libraries**
+<br>
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+<img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+<img src="https://img.shields.io/badge/NLTK-339933?style=for-the-badge&logo=python&logoColor=white" />
+
+**Data & Tools**
+<br>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+
 </div>
+<br />
+
