@@ -1,195 +1,68 @@
-# Hi there, I'm Uzair Mubasher 👋
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=300&section=header&text=Uzair%20Mubasher&fontSize=90&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20Computer%20Vision%20%7C%20NLP&descAlignY=51&descAlign=62" alt="Uzair Mubasher Banner" width="100%"/>
+</div>
 
-### 🎓 BS Artificial Intelligence Graduate | AI/ML Engineer
-
-I'm passionate about **Artificial Intelligence** and **Machine Learning**, with expertise spanning Deep Learning, Computer Vision, NLP, and Reinforcement Learning. I build intelligent systems that solve real-world problems.
-
----
-
-## 🚀 About Me
-
-- 🎓 **Education**: BS in Artificial Intelligence
-- 💼 **Focus**: Deep Learning, Computer Vision, NLP, Reinforcement Learning
-- 📍 **Location**: Pakistan
-- 🌱 **Currently**: Building AI/ML projects and expanding my expertise
-- 💡 **Interests**: Neural Networks, Face Recognition, Signal Processing, Data Mining
+<div align="center">
+  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Uzair_Mubasher-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/uzair-mubasher-208ba5164)
+  [![Email](https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail)](mailto:your-email@example.com)
+  
+</div>
 
 ---
 
-## 🛠️ Tech Stack
+### 👨‍💻 About Me
 
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+I am a **BS Artificial Intelligence Graduate** and an experienced professional with a background in industrial operations (**EGA**). I specialize in bridging the gap between theoretical Deep Learning and real-world software applications.
 
-### AI/ML Frameworks
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+My focus is on developing **AI-driven software products**—transforming complex models into monetizable, user-friendly applications. I have a passion for blending high-tech backend logic with cinematic visual presentation.
 
-### Computer Vision & NLP
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![NLTK](https://img.shields.io/badge/NLTK-154360?style=for-the-badge)
-![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white)
-
-### Data Science
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge)
-![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge)
-
-### Tools & Platforms
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+* 🔭 **I’m currently working on:** **MeetMind AI** (An AI-powered meeting assistant).
+* 🌱 **I’m currently learning:** Agentic workflows (Gemini/ChatGPT) and Advanced MLOps.
+* 🧠 **Core Interests:** Computer Vision, Medical AI Tech, and Motion Graphics.
 
 ---
 
-## 📂 Featured Projects
+### 🚀 Featured Projects
 
-### 🧠 Deep Learning
-<table>
-<tr>
-<td width="50%">
-
-#### [Deep Learning Portfolio](https://github.com/uzi-gpu/deep-learning-portfolio)
-CNNs, GANs, and GPU-accelerated models
-- ✅ GAN for MNIST generation
-- ✅ CNN FashionMNIST classification
-- ✅ ResNet50 CIFAR100 with CUDA
-
-</td>
-<td width="50%">
-
-#### [Reinforcement Learning](https://github.com/uzi-gpu/reinforcement-learning)
-RL algorithms implementation
-- ✅ Q-Learning (tabular)
-- ✅ Actor-Critic (A2C)
-- ✅ REINFORCE policy gradient
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-#### [Machine Learning Projects](https://github.com/uzi-gpu/machine-learning-projects)
-Classic ML algorithms and applications
-- ✅ Breast Cancer classification
-- ✅ KNN, KRR, Random Forest
-- ✅ Complete preprocessing pipeline
-
-</td>
-<td width="50%">
-
-#### [Data Mining & Advanced](https://github.com/uzi-gpu/data-mining-advanced)
-Data mining and advanced topics
-- ✅ Clustering & association rules
-- ✅ ANN loss functions analysis
-- ✅ Comprehensive image processing
-
-</td>
-</tr>
-</table>
-
-### 👁️ Computer Vision
-<table>
-<tr>
-<td width="50%">
-
-#### [Face Recognition](https://github.com/uzi-gpu/face-recognition)
-Complete face recognition system
-- ✅ Haar Cascades & DNN detection
-- ✅ FaceNet embeddings
-- ✅ Real-time recognition system
-
-</td>
-<td width="50%">
-
-#### [Computer Vision Projects](https://github.com/uzi-gpu/computer-vision-projects)
-OpenCV and deep learning for CV
-- ✅ CNN image classification
-- ✅ OpenCV fundamentals
-- ✅ Hand detection with contours
-
-</td>
-</tr>
-</table>
-
-### 💬 Natural Language Processing
-<table>
-<tr>
-<td width="50%">
-
-#### [NLP Projects](https://github.com/uzi-gpu/nlp-projects)
-Text processing and language models
-- ✅ LSTM text generation
-- ✅ RNN sentiment analysis
-- ✅ Tokenization, stemming, lemmatization
-
-</td>
-<td width="50%">
-
-#### [Signal Processing](https://github.com/uzi-gpu/signal-processing)
-Audio analysis and feature extraction
-- ✅ FFT & spectrograms
-- ✅ MFCC extraction
-- ✅ Text-to-speech synthesis
-
-</td>
-</tr>
-</table>
-
-
-
-## 🏆 Highlights
-
-- 🎯 **8 Professional AI/ML Repositories** covering all major domains
-- 🧠 **40+ Jupyter Notebooks** with working implementations
-- 📚 **Comprehensive Documentation** with detailed READMEs
-- 🚀 **Production-Ready Code** with proper structure
-- 🎓 **Deep Learning**, **Computer Vision**, **NLP**, **RL** expertise
-- 💡 **99.65% Accuracy** achieved with FaceNet
-- ⚡ **Real-Time Systems** designed and implemented
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| **MeetMind AI** (FYP) | An intelligent online meeting assistant that generates summaries, diagrams, and action items automatically. | `Python`, `NLP`, `GenAI` |
+| **[Computer Vision Projects](https://github.com/Uzi-gpu/computer-vision-projects)** | A collection of CNNs, Object Detection, and Image Processing pipelines. | `OpenCV`, `TensorFlow` |
+| **[NLP Projects](https://github.com/Uzi-gpu/nlp-projects)** | Sentiment analysis, text generation, and language modeling experiments. | `NLTK`, `Transformers` |
+| **[Reinforcement Learning](https://github.com/Uzi-gpu/reinforcement-learning)** | Agents trained using Q-Learning and Actor-Critic methods. | `PyTorch`, `Gym` |
 
 ---
 
-## 📫 Connect With Me
+### 🛠️ Technical Arsenal
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/uzair-mubasher-208ba5164">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:uzairmubasher5@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://github.com/uzi-gpu">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
+**Languages & Frameworks**
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+</p>
+
+**Tools & Workflow**
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 </p>
 
 ---
 
-## 💼 What I'm Looking For
+### 📊 GitHub Analytics
 
-I'm actively seeking opportunities in:
-- 🤖 **Machine Learning Engineer** roles
-- 👁️ **Computer Vision Engineer** positions
-- 🧠 **Deep Learning Research** opportunities
-- 📊 **Data Scientist** positions
-- 🚀 **AI/ML internships** and full-time roles
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Uzi-gpu&show_icons=true&theme=tokyonight&hide_border=true" alt="Uzi-gpu's stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Uzi-gpu&theme=tokyonight&hide_border=true" alt="Uzi-gpu's streak" />
+</div>
 
----
-
-
-
-<p align="center">
-  <i>"Building intelligent systems, one algorithm at a time."</i>
-</p>
-
----
-
-⭐️ **If you find my projects helpful, please consider giving them a star!**
-
-
-
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Uzi-gpu&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
+</div>
