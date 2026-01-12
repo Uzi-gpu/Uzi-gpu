@@ -4,7 +4,7 @@
   </a>
 
   <p>
-    <a href="www.linkedin.com/in/uzair-bin-mubasher-208ba5164">
+    <a href="https:linkedin.com/in/uzair-bin-mubasher-208ba5164">
       <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
     </a>
     <a href="mailto:your-email@example.com">
